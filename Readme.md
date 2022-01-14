@@ -136,7 +136,7 @@ Notice that the implementation of the Node is separated from the implementation 
 ### File Description
 
 Files | Description | 
---- | --- | --- |
+--- | --- |
 `CMakeLists.txt` | is the input to the CMake build system for building software packages |
 `config_robot_behavior.yaml` | parameters to be loaded by the node |
 `doc/README.md` | diagram with the inputs(parameters and subscribers) and outputs(pusblishers) of the node |
@@ -164,7 +164,7 @@ Rubric | Where |
 ### Object Oriented Programming
 
 Rubric | Where | 
---- | --- | --- |
+--- | --- |
 `The project uses Object Oriented Programming techniques.` | :heavy_check_mark: RobotBehaviorNode.cpp/h for example |
 `Classes use appropriate access specifiers for class members.` | :heavy_check_mark: RobotBehaviorNode.cpp/h for example |
 `Class constructors utilize member initialization lists.` | :heavy_check_mark: I think all the 4 classes |
@@ -178,6 +178,6 @@ Rubric | Where |
 ### Memory Management
 
 Rubric | Where | 
---- | --- | --- |
+--- | --- | 
 `The project makes use of references in function declarations.` | :heavy_check_mark: RobotBehaviorNode.cpp/h for example and Lines 21 and 35 of RobotBehaviorAlgorithmWander.h |
 
