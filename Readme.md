@@ -156,7 +156,7 @@ Files | Description |
 
 ### Loops, Functions, I/O
 Rubric | Where | 
---- | --- | --- |
+--- | --- |
 `The project demonstrates an understanding of C++ functions and control structures` | :heavy_check_mark: spread in the code |
 `The project reads data from a file and process the data, or the program writes data to a file.` | :heavy_check_mark: reads parameters from a yaml file. Not sure if this counts. Lines 152-167 -> RobotBehaviorNode.cpp |
 `The project accepts user input and processes the input.` | :heavy_check_mark: RobotBehaviorAlgorithmTeleop.cpp  |
