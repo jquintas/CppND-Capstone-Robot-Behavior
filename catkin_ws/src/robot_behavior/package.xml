@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package format="2">
+ <name>robot_behavior</name>
+ <version>1.0.0</version>
+ <description>
+Turtlebot behaviors for exploring a world 
+</description>
+
+ <license>GPLv3</license>
+
+ <author email="jquintas@gmail.com">malaclemys</author>
+ <maintainer email="jquintas@gmail.com">malaclemys</maintainer>
+ <buildtool_depend>catkin</buildtool_depend>
+
+ <depend>std_msgs</depend>
+
+ <depend>sensor_msgs</depend>
+
+ <depend>geometry_msgs</depend>
+
+
+ <depend>roscpp</depend>
+
+</package>

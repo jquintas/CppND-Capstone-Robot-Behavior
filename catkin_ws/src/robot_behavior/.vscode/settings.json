@@ -1,0 +1,7 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/media/quintas/Data/IST/Code/medusa/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/kinetic/lib/python2.7/dist-packages"
+    ]
+}

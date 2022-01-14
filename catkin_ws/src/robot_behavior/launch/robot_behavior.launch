@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+
+ <!-- small description about your node -->
+ 
+ <!--<node pkg="my_package_name" type="my_node_name" name="my_node_name"
+ respawn="false" output="screen" args="$(find robot_behavior)/config/my_arg_file.yaml"/>-->
+ 
+ <node pkg="robot_behavior" type="robot_behavior_node" name="RobotBehaviorNode" respawn="false" output="screen">
+	<rosparam command="load" file="$(find robot_behavior)/config/config_robot_behavior.yaml"/>
+</node>
+
+</launch>

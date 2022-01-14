@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/opt/ros/kinetic/include/**",
+                "/media/quintas/Data/IST/Code/medusa/catkin_ws/devel/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/devel/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_comms/comms_acoustic/acoustic_tools/acoustic_filters/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_comms/comms_acoustic/acoustic_schemes/atomic_clocks_acoustic_scheme/atomic_clocks_acoustic_pinger/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_comms/comms_acoustic/acoustic_schemes/atomic_clocks_acoustic_scheme/atomic_clocks_acoustic_replier/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/bat_monit/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/depth_cell/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/fiic_awesome/fiic_awesome_cpp/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_nav/filters/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_common/geo_conversion/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/gpio/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/imu/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/imu_complementary_filter/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/inner_loops/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/optical_modem/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/rvo/player_map/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/rvo/rvo2/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/rvo/rvo_move/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/serial/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/serial_lib/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/serial_port/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/tritech_sonar/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/usb_interface/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_drivers/vesc/vesc_driver/include/**",
+                "/media/quintas/Stuff/IST/Code/medusa_work/medusa_genx/catkin_ws/src/medusa_vx/medusa_control/waypoint/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
